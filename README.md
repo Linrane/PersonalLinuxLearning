@@ -1,6 +1,12 @@
 # PersonalLinuxLearning
 
-我所使用的图形化界面为Linux Mint的Cinnamon
+我所使用的图形化界面为Linux Mint的Cinnamon，下载地址为：https://www.linuxmint.com/download.php
+
+下载地址内里面还有其他的三个版本，都是可以下载其镜像地址，内有说明书，可以按照说明书进行验证操作
+
+如果有u盘（必须是空的），可以使用etcher工具（下载地址如下：https://etcher.balena.io/#download-etcher），来将u盘变成启动器，这样的话cpu/gpu都直接使用你的电脑，更加方便便捷！
+
+但是如果暂时只是想体验，可以使用虚拟机vm，将镜像文件导入即可，进行基本的体验后点击桌面的光驱，完成好一系列的设置即可可以安装了
 
 暂时没什么其他的内容补充了，详细的内容去查看我上传的文件内容吧
 
