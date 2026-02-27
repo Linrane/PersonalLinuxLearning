@@ -1,3 +1,5 @@
 # PersonalLinuxLearning
-我所使用的图形化界面为Linux Mint的Cinnamon。
+
+我所使用的图形化界面为Linux Mint的Cinnamon
+
 暂时没什么其他的内容补充了，详细的内容去查看我上传的文件内容吧
